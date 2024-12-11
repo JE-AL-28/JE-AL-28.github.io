@@ -4,7 +4,7 @@ I am a computer science major that is expected to graduate in 2029.
 
 ## My Favorite Labs
 
-## Lab 4
+### Lab 4
 
 
 ## Lab 6 Part 2
